@@ -10,7 +10,7 @@
  - do the same with unsplit.py file to restore the image
 ### Extra Versions Note:
 - mpsplit.py implemented to work using multiprocessing ,**split.py is recommended for shorter splits**
-- unsplitmp.py introduce a dictionary to store the opened part images especially when dealing with a large number of part images,**unsplit.py is recommended for shorter splits** 
+- unsplitmp.py introduce a dictionary to store the opened part images which is better especially when dealing with a large number of part images,**unsplit.py is recommended for shorter splits** 
  
 
 ## Suggested enhancements/future work:
